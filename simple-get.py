@@ -2,7 +2,7 @@ import datetime
 import math
 
 import matplotlib.pyplot as plt
-import polygon
+from polygon import RESTClient
 
 client = RESTClient()
 
